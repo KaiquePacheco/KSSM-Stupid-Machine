@@ -1,0 +1,15 @@
+[package]
+name = "kssm-kaique-s-stupid-machine"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["Kaique Pacheco kaique12br@gmail.com"]
+rust-version = "1.66.0"
+licence = "MIT"
+
+readme = "README.md"
+
+[dependencies]
+
+[dev-dependencies]
+test-case = "2.2.2"
